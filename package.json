@@ -1,0 +1,19 @@
+{
+  "name": "cse341-node",
+  "version": "1.0.0",
+  "description": "My CSE341 Project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Seryn-P-Arm/cse341-node.git"
+  },
+  "author": "Seryn Armstrong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Seryn-P-Arm/cse341-node/issues"
+  },
+  "homepage": "https://github.com/Seryn-P-Arm/cse341-node#readme"
+}
